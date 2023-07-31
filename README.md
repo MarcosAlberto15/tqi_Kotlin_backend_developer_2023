@@ -1,4 +1,3 @@
-<img width="336" alt="image" src="https://github.com/MarcosAlberto15/tqi_Kotlin_backend_developer_avaliacao/assets/109168482/0e42a11f-e225-43fc-9751-0283f6bac97f">
 
 Auto Atendimento
 
